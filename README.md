@@ -20,8 +20,8 @@ my portfolio project
 [Go Back to the top](#phase-0-project)
 ## Features
 As a user of the application,you will be able to :
-1. See a description of what the services offered by the movers
-1. Can enroll using a button placed at the top.
+1. See a description of what the services offered by the Mustie
+1. Can see contacts of the developer.
 [Go Back to the top](#phase-0-project)
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
@@ -36,16 +36,17 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to their repo : git clone https://github.com/Mustie-THE-Dev/week2project.git
+* Clone to their repo : git clone git@github.com:mustie-THE-dev/phase-0-project.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
  [Go Back to the top](#phase-0-project)
 ### Live Link
-- Click this link to view the live application https://mustie-THE-Dev.github.io/week2project/
+- Click this link to view the live application https://mustie-the-dev.github.io/phase-0-project/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
+* Javascript - which was used to add functionality
 
 [Go Back to the top](#phase-0-project)
 ## Known Bugs
