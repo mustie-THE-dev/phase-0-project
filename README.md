@@ -4,7 +4,7 @@ quick movers web page
 # Quick movers webpage
  ## By SIMON KAMAU
 ## Screenshot
-src="https://github.com/mustie-THE-dev/phase-0-project/blob/main/Assets/Images/Screenshot%20from%202022-06-06%2016-14-02.png"
+ ![image](./Assets/Images/Screenshot from 2022-06-06 16-14-02.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
