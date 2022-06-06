@@ -1,7 +1,7 @@
 # phase-0-project
-# week2project
-quick movers web page
-# Quick movers webpage
+# phase-0-project
+my portfolio project
+# My PORTFOLIO Project
  ## By SIMON KAMAU
 ## Screenshot
  ![image](./Assets/Images/Screenshot from 2022-06-06 16-14-02.png)
